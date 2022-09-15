@@ -1,3 +1,22 @@
+#### 1.1.0 (2022-09-15)
+
+##### Build System / Dependencies
+
+*  release version v1.1.0 (4b434b6e)
+
+##### Performance Improvements
+
+*  optimize speed of page load (0a5ca1e3)
+
+##### Code Style Changes
+
+*  add center text (3b55bb0d)
+*  remove padding and margin for main layout (b3073449)
+
+##### Tests
+
+*  add karma config (f242f656)
+
 #### 1.0.0 (2022-09-15)
 
 ##### Documentation Changes
