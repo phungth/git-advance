@@ -1,0 +1,12 @@
+{
+  "name": "git-advance",
+  "version": "1.0.0",
+  "description": "git tips and tricks",
+  "main": "index.js",
+  "repository": "git@github.com:phungth/git-advance.git",
+  "author": "To Hoang Phung <phungth@vng.com.vn>",
+  "license": "MIT",
+  "dependencies": {
+    "generate-changelog": "^1.8.0"
+  }
+}
