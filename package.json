@@ -6,6 +6,9 @@
   "repository": "git@github.com:phungth/git-advance.git",
   "author": "To Hoang Phung <phungth@vng.com.vn>",
   "license": "MIT",
+  "scripts": {
+    "changelog": "generate-changelog"
+  },
   "dependencies": {
     "generate-changelog": "^1.8.0"
   }
